@@ -1,0 +1,33 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+media/
+
+# Environment variables
+.env
+calcenv/
+env/
+venv/
+.venv/
+
+# PyCharm specific files
+.idea/
+
+# VSCode specific files
+.vscode/
+
+# Static files collected by Django
+/staticfiles/
+
+# macOS system files
+.DS_Store
+
+# Backup files
+*.bak
+*.swp
